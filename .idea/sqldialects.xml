@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/DDL_Simula_Final.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/SQLQuery4_U205_FinalAdelantadoTema03.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/martinez-vidal.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/test.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../resort-bahia-serena/database.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../resort-bahia-serena/execute.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../resort-bahia-serena/resources/alerta.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../resort-bahia-serena/resources/cursor.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../resort-bahia-serena/resources/function.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../resort-bahia-serena/resources/procedure.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../resort-bahia-serena/resources/trigger.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../resort-bahia-serena/resources/view.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../resort-bahia-serena/seed.sql" dialect="TSQL" />
+  </component>
+</project>
